@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @idandanx (Idan Plitt)
 - 🌱 I’m currently pursuing a B.Sc. in Computer Science at The Open University, Israel
-- ⚡ Fun fact: I am a lasagna connoisseur and can whip up a delicious homemade one
+- ⚡ Fun fact: I am a lasagna connoisseur
